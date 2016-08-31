@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/psu-stewardship/scholarsphere.png?label=ready&title=Ready)](https://waffle.io/psu-stewardship/scholarsphere)
 # ScholarSphere [![Version](https://badge.fury.io/gh/psu-stewardship%2Fscholarsphere.png)](http://badge.fury.io/gh/psu-stewardship%2Fscholarsphere) [![Build Status](https://travis-ci.org/psu-stewardship/scholarsphere.png?branch=develop)](https://travis-ci.org/psu-stewardship/scholarsphere) [![Dependency Status](https://gemnasium.com/psu-stewardship/scholarsphere.png)](https://gemnasium.com/psu-stewardship/scholarsphere)
 
 ScholarSphere is Penn State's self- and proxy-deposit repository for access to and preservation of scholarly works and data. It is built atop [Sufia](https://github.com/projecthydra/sufia), a [Hydra](http://projecthydra.org)/Rails-based component.
